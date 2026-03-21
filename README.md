@@ -1,5 +1,5 @@
 # 💫 Abdulmueez
-🔭 I’m currently working as a full stack web development<br><br>👯 I’m looking to collaborate on Open source projects and realworld fullstack apps<br><br>🤝 I’m looking for help with Advanced backend architecture and blockchain development<br><br>🌱 I’m currently learning Blockchain, smart contracts, and scalable system design<br><br>⚡  I enjoy turning ideas into realworld applications through code 🚀
+🔭 I’m currently working as a full stack web development<br><br>👯 I’m looking to collaborate on Open source projects and realworld fullstack apps<br><br>🤝 I’m looking for assitance with Advanced backend architecture and blockchain development<br><br>🌱 I’m currently learning Blockchain, smart contracts, and scalable system design<br><br>⚡  I enjoy turning ideas into realworld applications through code 🚀
 
 
 ## 🌐 Socials:
